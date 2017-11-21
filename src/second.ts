@@ -13,3 +13,5 @@ console.log(add(2,3,5));
 console.log(obj[3].surname);
 console.log(obj[4](3,3,3));
 console.log(new obj[5].SDA.Person('Nicholas','Cage').firstName);
+import {dabbu} from './first';
+console.log(dabbu);

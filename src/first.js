@@ -39,6 +39,7 @@ var XX;
     XX.surname = 'Ghanti';
 })(XX || (XX = {}));
 exports.XX = XX;
+exports.dabbu = 'Amazing Dabbu';
 var som = { fn: 'Lance' };
 var Emp = { empId: 32, title: 'Manager' };
 var label = 'First Name';

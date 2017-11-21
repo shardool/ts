@@ -20,7 +20,7 @@
 namespace XX {
     export let surname = 'Ghanti';
 }
-
+export let dabbu = 'Amazing Dabbu';
 let som = {fn:'Lance'};
 let Emp = {empId:32,title:'Manager'};
 let label = 'First Name';
