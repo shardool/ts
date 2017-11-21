@@ -1,0 +1,16 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var first_1 = require("./first");
+var first_2 = require("./first");
+console.log(first_1.default[0].fn);
+console.log(first_1.default[1].empId);
+console.log(new first_2.CXM.SDA.Person('Tom', 'Riley').firstName);
+var first_3 = require("./first");
+console.log(first_3.label);
+console.log(first_1.default[2]);
+var first_4 = require("./first");
+console.log(first_4.XX.surname);
+var first_5 = require("./first");
+console.log(first_5.add(2, 3, 5));
+console.log(first_1.default[3].surname);
+console.log(first_1.default[4](3, 3, 3));
