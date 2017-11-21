@@ -30,4 +30,4 @@ let add = (a:number, b:number, c:number):number => {
 export {Guardian, label, add};
 export {XX};
 export {CXM};
-export default [som, Emp,label, XX, add];
+export default [som, Emp,label, XX, add, CXM];

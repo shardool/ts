@@ -14,3 +14,4 @@ var first_5 = require("./first");
 console.log(first_5.add(2, 3, 5));
 console.log(first_1.default[3].surname);
 console.log(first_1.default[4](3, 3, 3));
+console.log(new first_1.default[5].SDA.Person('Nicholas', 'Cage').firstName);

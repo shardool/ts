@@ -47,4 +47,4 @@ var add = function (a, b, c) {
     return a + b + c;
 };
 exports.add = add;
-exports.default = [som, Emp, label, XX, add];
+exports.default = [som, Emp, label, XX, add, CXM];
